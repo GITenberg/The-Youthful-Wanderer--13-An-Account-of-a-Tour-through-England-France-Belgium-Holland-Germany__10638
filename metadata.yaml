@@ -1,0 +1,25 @@
+_repo: The-Youthful-Wanderer--13-An-Account-of-a-Tour-through-England-France-Belgium-Holland-Germany__10638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Heffner, George H.
+    gutenberg_agent_id: '3616'
+    url: http://www.gutenberg.org/2009/agents/3616
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- Description and travel'
+- GITenberg
+title: "The Youthful Wanderer\r\nAn Account of a Tour through England, France, Belgium,\
+  \ Holland, Germany and the Rhine, Switzerland, Italy, and Egypt, Adapted to the\
+  \ Wants of Young Americans Taking Their First Glimpses at the Old World"
+url: http://www.gutenberg.org/ebooks/10638
